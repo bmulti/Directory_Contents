@@ -1,0 +1,20 @@
+{
+  "files": [
+    ".gitignore",
+    "INSTALL.md",
+    "README.md",
+    "copyright.txt",
+    "cpc_dir_contents.ico",
+    "cpc_dir_contents.txt",
+    "cpc_dir_contents_splash.png",
+    "docs/cpc_dir_contents.ico",
+    "docs/en.html",
+    "docs/images/splash-000-cpc_dir_contents_splash.png",
+    "docs/index.html",
+    "docs/logo.png",
+    "docs/styles.css",
+    "logo.png",
+    "notes/cpc-dir-contents.en.txt"
+  ],
+  "managed_by": "CPC GitHub Publisher"
+}

@@ -1,0 +1,41 @@
+Directory Contents
+GUIDE FORMAT: authored
+
+What this application does
+
+Directory Contents lists the files and folders directly inside a folder you
+choose. It shows modification date, filename, extension and size, and can copy
+the displayed names to the clipboard. Listing a folder does not run its files.
+
+Start in Directory, choose a folder with Open Directory and inspect the list.
+Click a column heading to change its order. Select an item before choosing an
+open action. Click a Notes heading to open the corresponding tab.
+
+## Directory
+Open Directory chooses the location to list. Refresh reads that same folder
+again after files change. Folders and files are shown together; opening a folder
+navigates into it. This view lists one folder at a time rather than recursively
+collecting every file beneath it.
+
+Copy File Names puts the displayed names on the clipboard in their current
+order. Open Selected opens the selected item; Open Folder opens the location in
+the system file browser. Opening a file may use a companion viewer or its system
+application, depending on its type and what is installed.
+
+## Config
+The displayed config-file location identifies where this app keeps its own
+settings. Choose or enter Last directory, then Load Directory to open it in the
+Directory tab. The app remembers the last directory and interface state between
+sessions. Use Save Config to explicitly keep the current settings.
+
+## UI Choices
+Choose the interface theme, text appearance, spacing and window size. These
+choices change the application interface; file locations and operating options
+belong in Config.
+
+## About
+Read the application identity, version and support information.
+
+## Gateway
+Use the shared launcher to find and open registered apps, files, folders and
+links. Opening a Gateway item is separate from processing the current file.

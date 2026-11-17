@@ -1,0 +1,21 @@
+# Directory Contents
+
+## Purpose
+
+
+## Features
+
+
+## Technology
+Python / Tkinter
+
+## System requirements
+Windows 10 or newer
+
+## Installation
+Download the ZIP release, extract it, and run the application.
+
+## Links
+https://github.com/bmulti/Directory_Contents
+
+File: cpc-dir-contents.en.txt
